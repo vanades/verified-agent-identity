@@ -8,7 +8,7 @@ on:
         required: true
         default: vanades
       agent_description:
-        description: 'lokie'
+        description: vanades
         required: true
         default: vanades AI Agent
 
